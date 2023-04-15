@@ -132,16 +132,6 @@ body {
 .contacts-link:focus {
   color: var(--color-ocean);
 }
-.contacts-phone {
-  letter-spacing: 0.02em;
-  color: var(--color-slate);
-}
-.contacts-phone:hover {
-  color: var(--color-ocean);
-}
-.contacts-phone:focus {
-  color: var(--color-ocean);
-}
 
 /* ====== */
 /* Footer */
